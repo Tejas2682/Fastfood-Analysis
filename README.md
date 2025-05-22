@@ -1,1 +1,3 @@
 # Fastfood-Analysis
+This project involves a comprehensive diagnostic analysis of fast food nutritional data collected from various restaurant chains. The aim is to derive insights into the nutritional content and pricing trends of food items across different restaurants to support health-conscious consumer choices and strategic planning for food service providers.
+Using a structured dataset containing information such as calories, fat content, cholesterol, sodium, carbohydrates, protein, vitamins, and price per item, we developed a detailed interactive Power BI dashboard. This dashboard provides an at-a-glance view of key nutritional metrics across restaurants and food categories.
